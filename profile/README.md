@@ -11,4 +11,3 @@ Since 2006 we have designed and built the data layer for companies in freight, m
 Studies we ran on our own data problems, with the prompts, tests and results so anyone can replay them.
 
 - [jev-job-by-job](https://github.com/WeBuildDatabases/jev-job-by-job): TypeSafe's Jev decision model tested on all 21 official cookbooks. Read the write-up: [Jev, job by job](https://webuilddatabases.com/blog/jev-job-by-job/).
-- [homepilotiq-privacy](https://github.com/WeBuildDatabases/homepilotiq-privacy): the privacy policy for Home Pilot IQ.
